@@ -29,7 +29,7 @@
 
 ### 操作步驟
 
-<img decoding="async" src="https://github.com/sam1997715/MultipleURLOpener/blob/main/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/%E4%BB%8B%E9%9D%A2%E4%BB%8B%E7%B4%B9.png?raw=true" width="30%">
+<img decoding="async" src="https://github.com/sam1997715/MultipleURLOpener/blob/main/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/%E4%BB%8B%E9%9D%A2%E4%BB%8B%E7%B4%B9.png?raw=true" width="40%">
 
 1. 預先準備好多個想要開啟的網址，並且用分行的方式分隔開每個網址。
 2. 將多個已經分隔好的網址直接貼上文字框。
@@ -42,7 +42,7 @@
 
 ### 範例
 
-<img decoding="async" src="https://github.com/sam1997715/MultipleURLOpener/blob/main/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/%E8%88%89%E4%BE%8B1.png?raw=true" width="70%">
+<img decoding="async" src="https://github.com/sam1997715/MultipleURLOpener/blob/main/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/%E8%88%89%E4%BE%8B1.png?raw=true" width="90%">
 
 1. 網址經過分行分隔每一條網址，並建議暫存在剪貼簿中(即<kbd>Ctrl</kbd>+<kbd>C</kbd>或任何與<kbd>Copy</kbd>相同功能按鍵)。
    假設有以下網址需要開啟：
@@ -56,4 +56,4 @@
 3. 確定選項符合需求(此例情況：若重複仍開啟，且需照順序開啟)。
 4. 按下</code>確定</code>鍵後即可開啟成功。
 
-<img decoding="async" src="https://github.com/sam1997715/MultipleURLOpener/blob/main/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/%E8%88%89%E4%BE%8B2.png?raw=true" width="70%">
+<img decoding="async" src="https://github.com/sam1997715/MultipleURLOpener/blob/main/%E8%AA%AA%E6%98%8E%E5%9C%96%E7%89%87/%E8%88%89%E4%BE%8B2.png?raw=true" width="90%">
